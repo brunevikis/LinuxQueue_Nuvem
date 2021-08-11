@@ -1,0 +1,34 @@
+===============================================
+CEPEL - Centro de Pesquisas de Energia Eletrica
+===============================================
+ Programa para converter os arquivos de dados
+  utilizados pelo programa DECOMP V30.1   do
+             WINDOWS para o LINUX
+-----------------------------------------------
+MSG:  O tipo de terminacao do arquivo caso.dat foi modificado de DOS para UNIX.
+MSG:  Abertura do arquivo caso.dat.
+MSG:  Leitura do nome de arquivo rv0                                                                             .
+MSG:  O tipo de terminacao do arquivo rv0 foi modificado de DOS para UNIX.
+MSG:  Abertura do arquivo rv0.
+MSG:  Inicio da verificacao da quantidade de arquivos de dados 
+MSG:  Foi verificada a existencia de 6 arquivos de dados.
+MSG:  Abertura do arquivo rv0.
+MSG:  Leitura da linha  1 do arquivo rv0.
+MSG:  Tratamento do arquivo dadger.rv0.
+MSG:  O tipo de terminacao do arquivo dadger.rv0 foi modificado de DOS para UNIX.
+MSG:  Leitura da linha  2 do arquivo rv0.
+MSG:  Tratamento do arquivo vazoes.rv0.
+MSG:  Leitura da linha  3 do arquivo rv0.
+MSG:  Tratamento do arquivo hidr.dat.
+MSG:  Leitura da linha  4 do arquivo rv0.
+MSG:  Tratamento do arquivo mlt.dat.
+MSG:  Leitura da linha  5 do arquivo rv0.
+MSG:  Tratamento do arquivo perdas.dat.
+MSG:  O tipo de terminacao do arquivo perdas.dat foi modificado de DOS para UNIX.
+MSG:  Leitura da linha  6 do arquivo rv0.
+MSG:  Tratamento do arquivo dadgnl.rv0.
+MSG:  O tipo de terminacao do arquivo dadgnl.rv0 foi modificado de DOS para UNIX.
+MSG:  Fechamento do arquivo rv0.
+MSG:  Abertura do arquivo rv0.
+MSG:  A linha  7 do arquivo rv0 foi mantida com /home/compass/sacompass/previsaopld/shared/install/decomp/301/Executaveis/.
+MSG:  Foi incluida uma linha em branco no final do arquivo rv0.

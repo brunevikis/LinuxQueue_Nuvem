@@ -1,0 +1,6 @@
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue40\bin\Debug\LinuxQueue40.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue40\bin\Debug\LinuxQueue40.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue40\obj\Debug\LinuxQueue40.csprojAssemblyReference.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue40\obj\Debug\LinuxQueue40.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue40\obj\Debug\LinuxQueue40.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue40\obj\Debug\LinuxQueue40.pdb

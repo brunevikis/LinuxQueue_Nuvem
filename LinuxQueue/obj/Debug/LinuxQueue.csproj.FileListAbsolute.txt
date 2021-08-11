@@ -1,0 +1,30 @@
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueue\bin\Debug\LinuxQueue.dll
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueue\bin\Debug\LinuxQueue.pdb
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueue\obj\Debug\LinuxQueue.csprojAssemblyReference.cache
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueue\obj\Debug\LinuxQueue.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueue\obj\Debug\LinuxQueue.dll
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueue\obj\Debug\LinuxQueue.pdb
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueue\bin\Debug\LinuxQueue.dll
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueue\bin\Debug\LinuxQueue.pdb
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueue\obj\Debug\LinuxQueue.csprojAssemblyReference.cache
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueue\obj\Debug\LinuxQueue.csproj.CoreCompileInputs.cache
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueue\obj\Debug\LinuxQueue.dll
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueue\obj\Debug\LinuxQueue.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue\bin\Debug\LinuxQueue.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue\bin\Debug\LinuxQueue.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue\obj\Debug\LinuxQueue.csprojAssemblyReference.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue\obj\Debug\LinuxQueue.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue\obj\Debug\LinuxQueue.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueue\obj\Debug\LinuxQueue.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueue\bin\Debug\LinuxQueue.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueue\bin\Debug\LinuxQueue.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueue\obj\Debug\LinuxQueue.csprojAssemblyReference.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueue\obj\Debug\LinuxQueue.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueue\obj\Debug\LinuxQueue.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueue\obj\Debug\LinuxQueue.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueue\bin\Debug\LinuxQueue.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueue\bin\Debug\LinuxQueue.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueue\obj\Debug\LinuxQueue.csprojAssemblyReference.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueue\obj\Debug\LinuxQueue.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueue\obj\Debug\LinuxQueue.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueue\obj\Debug\LinuxQueue.pdb

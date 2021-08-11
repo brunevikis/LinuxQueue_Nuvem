@@ -1,0 +1,149 @@
+Programa Decomp
+Versao 30.1 - Jan/2020(L)               
+Caso: PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        
+Data: 17-02-2020
+Hora: 15h 32min 54.778sec 
+Numero de Processadores:    16
+PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+    
+   ===================================
+          DADOS DO EXECUTAVEL
+   PLATAFORMA__________: LINUX (L)                                                                  
+   NUMERO DE BITS______: 64 Bits                                                                    
+   PACOTE DE OTIMIZACAO: LIBSLV
+   ===================================
+    
+
+   RELATORIO DE CONVERGENCIA DO PROCESSO ITERATIVO
+
+   X----X------------X------------X----------------X--------|----------------------------------------------------------------------X
+                                                            |             Primeiro mes - iteracoes forward
+                                                            |----------------------------------------------------------------------X
+                                                            |       Tot Def         |
+     It      Zinf         Zsup            GAP        TEMPO  |-----------------------|----------------------------------------------X
+          (1.0E+03 $)  (1.0E+03 $)        (%)               |  Demanda    Niv Seg   |  Num.   Tot. Inviab  Tot. Inviab  Tot. Inviab
+                                                            |  (MWmed)    (MWmes)   | Inviab    (MWmed)      (m3/s)       (Hm3)
+   X----X------------X------------X----------------X--------|----------X------------X-------X------------X------------X------------X
+     1       435152.6  207179946.6   47510.8671309  00:00:54|        0.      -          3           0.          55.           0.
+     2       435152.6  207179946.6   47510.8671309  00:01:21|        0.      -          5           0.         272.           0.
+     3     77073934.9  207179946.6     168.8067592  00:01:40|        0.      -          0           0.           0.           0.
+     4     77083547.4   77151401.1       0.0880262  00:02:01|        0.      -          0           0.           0.           0.
+     5     77090122.0   77121916.0       0.0412426  00:02:21|        0.      -          0           0.           0.           0.
+     6     77099042.5   77121916.0       0.0296678  00:02:44|        0.      -          1           0.           0.           0.
+     7     77102171.4   77115789.5       0.0176624  00:03:04|        0.      -          0           0.           0.           0.
+     8     77102683.7   77115789.5       0.0169979  00:03:23|        0.      -          1           0.           0.           0.
+     9     77105514.7   77114817.9       0.0120656  00:03:40|        0.      -          0           0.           0.           0.
+    10     77106077.6   77113504.6       0.0096322  00:04:00|        0.      -          0           0.           0.           0.
+    11     77108555.0   77112009.5       0.0044801  00:04:16|        0.      -          0           0.           0.           0.
+    12     77108821.5   77112009.5       0.0041344  00:04:31|        0.      -          0           0.           0.           0.
+    13     77108895.1   77112009.5       0.0040390  00:04:56|        0.      -          0           0.           0.           0.
+    14     77109087.1   77110753.0       0.0021603  00:05:14|        0.      -          0           0.           0.           0.
+    15     77109258.9   77110753.0       0.0019376  00:05:39|        0.      -          1           0.           0.           0.
+    16     77109342.4   77110753.0       0.0018293  00:05:59|        0.      -          0           0.           0.           0.
+    17     77109728.5   77110690.0       0.0012469  00:06:16|        0.      -          0           0.           0.           0.
+    18     77109810.5   77110517.3       0.0009166  00:06:29|        0.      -          1           0.           0.           0.
+    19     77109913.3   77110517.3       0.0007833  00:06:49|        0.      -          1           0.           0.           0.
+
+Leitura de Dados:                  000h 00min 10s
+Envio de Variaveis:                000h 00min 01s
+Iteracao   1 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 05s
+               Descida 2a Parte:   000h 00min 45s
+               Retorno:            000h 00min 03s
+               Total:              000h 00min 53s
+Iteracao   2 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 04s
+               Descida 2a Parte:   000h 00min 16s
+               Retorno:            000h 00min 07s
+               Total:              000h 00min 27s
+Iteracao   3 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 06s
+               Descida 2a Parte:   000h 00min 06s
+               Retorno:            000h 00min 07s
+               Total:              000h 00min 19s
+Iteracao   4 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 10s
+               Descida 2a Parte:   000h 00min 04s
+               Retorno:            000h 00min 07s
+               Total:              000h 00min 21s
+Iteracao   5 - Envio de Variaveis: 000h 00min 01s
+               Descida 1a Parte:   000h 00min 09s
+               Descida 2a Parte:   000h 00min 04s
+               Retorno:            000h 00min 06s
+               Total:              000h 00min 20s
+Iteracao   6 - Envio de Variaveis: 000h 00min 01s
+               Descida 1a Parte:   000h 00min 07s
+               Descida 2a Parte:   000h 00min 05s
+               Retorno:            000h 00min 10s
+               Total:              000h 00min 23s
+Iteracao   7 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 09s
+               Descida 2a Parte:   000h 00min 04s
+               Retorno:            000h 00min 07s
+               Total:              000h 00min 20s
+Iteracao   8 - Envio de Variaveis: 000h 00min 01s
+               Descida 1a Parte:   000h 00min 08s
+               Descida 2a Parte:   000h 00min 02s
+               Retorno:            000h 00min 08s
+               Total:              000h 00min 19s
+Iteracao   9 - Envio de Variaveis: 000h 00min 01s
+               Descida 1a Parte:   000h 00min 05s
+               Descida 2a Parte:   000h 00min 03s
+               Retorno:            000h 00min 08s
+               Total:              000h 00min 17s
+Iteracao  10 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 13s
+               Descida 2a Parte:   000h 00min 03s
+               Retorno:            000h 00min 04s
+               Total:              000h 00min 20s
+Iteracao  11 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 06s
+               Descida 2a Parte:   000h 00min 03s
+               Retorno:            000h 00min 07s
+               Total:              000h 00min 16s
+Iteracao  12 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 04s
+               Descida 2a Parte:   000h 00min 03s
+               Retorno:            000h 00min 08s
+               Total:              000h 00min 15s
+Iteracao  13 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 09s
+               Descida 2a Parte:   000h 00min 03s
+               Retorno:            000h 00min 13s
+               Total:              000h 00min 25s
+Iteracao  14 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 08s
+               Descida 2a Parte:   000h 00min 02s
+               Retorno:            000h 00min 08s
+               Total:              000h 00min 18s
+Iteracao  15 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 07s
+               Descida 2a Parte:   000h 00min 02s
+               Retorno:            000h 00min 16s
+               Total:              000h 00min 25s
+Iteracao  16 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 07s
+               Descida 2a Parte:   000h 00min 02s
+               Retorno:            000h 00min 11s
+               Total:              000h 00min 20s
+Iteracao  17 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 06s
+               Descida 2a Parte:   000h 00min 02s
+               Retorno:            000h 00min 09s
+               Total:              000h 00min 17s
+Iteracao  18 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 05s
+               Descida 2a Parte:   000h 00min 02s
+               Retorno:            000h 00min 06s
+               Total:              000h 00min 13s
+Iteracao  19 - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 08s
+               Descida 2a Parte:   000h 00min 02s
+               Retorno:            000h 00min 10s
+               Total:              000h 00min 20s
+Impressao    - Envio de Variaveis: 000h 00min 00s
+               Descida 1a Parte:   000h 00min 05s
+               Descida 2a Parte:   000h 00min 01s
+               Total:              000h 00min 06s
+Tempo Total:                       000h 07min 05s

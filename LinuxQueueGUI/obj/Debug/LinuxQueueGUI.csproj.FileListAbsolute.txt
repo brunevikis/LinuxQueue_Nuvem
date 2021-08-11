@@ -1,0 +1,56 @@
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\dummy.dat
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\commandMenu.xml
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\LinuxQueueGUI.exe.config
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\LinuxQueueGUI.exe.manifest
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\LinuxQueueGUI.application
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\LinuxQueueGUI.exe
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\LinuxQueueGUI.pdb
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\LinuxQueue.dll
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\LinuxQueue.pdb
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.csprojAssemblyReference.cache
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.ClusterConfig.resources
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormConfigAuto.resources
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormConfig.resources
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormIgnoraFila.resources
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormFolderList.resources
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormMain.resources
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormOutputs.resources
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.Properties.Resources.resources
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.UserControl1.resources
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.csproj.GenerateResource.cache
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.exe.manifest
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.application
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.csproj.CopyComplete
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.exe
+C:\Development\auxiliar\LinuxQueue - Copia\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\dummy.dat
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\commandMenu.xml
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\LinuxQueueGUI.exe.config
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\LinuxQueueGUI.exe.manifest
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\LinuxQueueGUI.application
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\LinuxQueueGUI.exe
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\LinuxQueueGUI.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\LinuxQueue.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\LinuxQueue.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.csprojAssemblyReference.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.ClusterConfig.resources
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormConfigAuto.resources
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormConfig.resources
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormIgnoraFila.resources
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormFolderList.resources
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormMain.resources
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.FormOutputs.resources
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.Properties.Resources.resources
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.UserControl1.resources
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.csproj.GenerateResource.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.exe.manifest
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.application
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.csproj.CopyComplete
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.exe
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueGUI\obj\Debug\LinuxQueueGUI.pdb

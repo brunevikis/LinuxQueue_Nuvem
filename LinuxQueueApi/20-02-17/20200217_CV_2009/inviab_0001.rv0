@@ -1,0 +1,36 @@
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)                    17/02/2020
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:29/02/2020
+
+   RELATORIO DE VIOLACOES DAS RESTRICOES OPERATIVAS POR ITERACAO, ESTAGIO E CENARIO:
+   X---------X--------------X--------X--------X---------------------------------------------------X----------------------X
+    ITERACAO  FWD(1)/BWD(0)  ESTAGIO  CENARIO      RESTRICAO VIOLADA                                     VIOLACAO
+   X---------X--------------X--------X--------X---------------------------------------------------X----------------------X
+       1           1           5          1    DEF. MINIMA, PATAMAR 3 USINA G.B. MUNHOZ                 10.24390244 m3/s
+       1           1           5          1    DEF. MINIMA, PATAMAR 3 USINA MACHADINHO                  24.58536585 m3/s
+       1           1           5          1    DEF. MINIMA, PATAMAR 3 USINA ITA                         22.53658537 m3/s
+       1           0           5          1    DEF. MINIMA, PATAMAR 3 USINA G.B. MUNHOZ                 10.24390244 m3/s
+       1           0           5          1    DEF. MINIMA, PATAMAR 3 USINA MACHADINHO                  24.58536585 m3/s
+       1           0           5          1    DEF. MINIMA, PATAMAR 3 USINA ITA                         22.53658537 m3/s
+       1           0           4          1    DEF. MINIMA, PATAMAR 3 USINA MACHADINHO                   4.09756098 m3/s
+       1           0           3          1    DEF. MINIMA, PATAMAR 3 USINA MACHADINHO                   8.19512195 m3/s
+       1           0           2          1    DEF. MINIMA, PATAMAR 3 USINA MACHADINHO                  16.39024390 m3/s
+       1           0           1          1    DEF. MINIMA, PATAMAR 3 USINA MACHADINHO                  28.68292683 m3/s
+       2           1           2          1    DEF. MINIMA, PATAMAR 3 USINA MACHADINHO                  16.39024390 m3/s
+       2           1           3          1    DEF. MINIMA, PATAMAR 3 USINA MACHADINHO                   8.19512195 m3/s
+       2           1           4          1    DEF. MINIMA, PATAMAR 3 USINA MACHADINHO                   4.09756098 m3/s
+       2           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1            199.92720748 m3/s
+       2           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1            199.92720748 m3/s
+       6           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.01920239 m3/s
+       6           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.01920239 m3/s
+      13           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00037684 m3/s
+      13           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00037684 m3/s
+      15           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00001740 m3/s
+      15           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00001740 m3/s
+      17           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00001031 m3/s
+      17           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00001031 m3/s
+
+   SIMULACAO FINAL:
+   X--------X--------X----------------------------------------------------------------------------X----------------------X
+    ESTAGIO  CENARIO         RESTRICAO VIOLADA                                                           VIOLACAO
+   X--------X--------X----------------------------------------------------------------------------X----------------------X

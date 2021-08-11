@@ -1,0 +1,19 @@
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)                    17/02/2020
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:29/02/2020
+
+   RELATORIO DE VIOLACOES DAS RESTRICOES OPERATIVAS POR ITERACAO, ESTAGIO E CENARIO:
+   X---------X--------------X--------X--------X---------------------------------------------------X----------------------X
+    ITERACAO  FWD(1)/BWD(0)  ESTAGIO  CENARIO      RESTRICAO VIOLADA                                     VIOLACAO
+   X---------X--------------X--------X--------X---------------------------------------------------X----------------------X
+       2           1           5          1    RHQ 213: VAZAO DEFLUENTE (L. INF), PATAMAR 3            112.15428712 m3/s
+       2           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1            199.92720748 m3/s
+       6           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.01695394 m3/s
+       6           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.01695394 m3/s
+      15           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00174276 m3/s
+      15           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00174276 m3/s
+
+   SIMULACAO FINAL:
+   X--------X--------X----------------------------------------------------------------------------X----------------------X
+    ESTAGIO  CENARIO         RESTRICAO VIOLADA                                                           VIOLACAO
+   X--------X--------X----------------------------------------------------------------------------X----------------------X

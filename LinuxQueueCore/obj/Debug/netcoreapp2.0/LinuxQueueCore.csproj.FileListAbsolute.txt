@@ -1,0 +1,44 @@
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.deps.json
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.AssemblyInfoInputs.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.AssemblyInfo.cs
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.pdb
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.deps.json
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.dll
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.pdb
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.csproj.CoreCompileInputs.cache
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.AssemblyInfoInputs.cache
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.AssemblyInfo.cs
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.dll
+C:\Development\Linux_Queue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.csprojAssemblyReference.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.deps.json
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.pdb
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.csprojAssemblyReference.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.AssemblyInfoInputs.cache
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.AssemblyInfo.cs
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.dll
+C:\Development\auxiliar\LinuxQueue_Nuvem - Copia (2)\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.pdb
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.deps.json
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.dll
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.pdb
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.csprojAssemblyReference.cache
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.AssemblyInfoInputs.cache
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.AssemblyInfo.cs
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.csproj.CoreCompileInputs.cache
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.dll
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.pdb
+C:\Compass\MIGRACAO\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.deps.json
+C:\Compass\MIGRACAO\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.dll
+C:\Compass\MIGRACAO\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueueCore\bin\Debug\netcoreapp2.0\LinuxQueueCore.pdb
+C:\Compass\MIGRACAO\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.csprojAssemblyReference.cache
+C:\Compass\MIGRACAO\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.AssemblyInfoInputs.cache
+C:\Compass\MIGRACAO\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.AssemblyInfo.cs
+C:\Compass\MIGRACAO\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.csproj.CoreCompileInputs.cache
+C:\Compass\MIGRACAO\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.dll
+C:\Compass\MIGRACAO\Development\auxiliar\LinuxQueue_Nuvem\LinuxQueueCore\obj\Debug\netcoreapp2.0\LinuxQueueCore.pdb

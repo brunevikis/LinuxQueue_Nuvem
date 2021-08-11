@@ -1,0 +1,44 @@
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)                    17/02/2020                                          
+                                                                                                                                                      
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:29/02/2020                                          
+                                                                                                                                                      
+   RELATORIO DE VIOLACOES DAS RESTRICOES OPERATIVAS POR ITERACAO, ESTAGIO E CENARIO:                                                                  
+   X---------X--------------X--------X--------X---------------------------------------------------X----------------------X                            
+    ITERACAO  FWD(1)/BWD(0)  ESTAGIO  CENARIO      RESTRICAO VIOLADA                                     VIOLACAO                                     
+   X---------X--------------X--------X--------X---------------------------------------------------X----------------------X                            
+       2           1           5          1    RHQ 213: VAZAO DEFLUENTE (L. INF), PATAMAR 3            112.15428712 m3/s                              
+       2           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              1.65866911 m3/s                              
+       2           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 2              1.65866911 m3/s                              
+       2           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 3              1.65866911 m3/s                              
+       2           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1             59.76257354 m3/s                              
+       2           0           5          1    RHQ 213: VAZAO DEFLUENTE (L. INF), PATAMAR 3             78.62894099 m3/s                              
+       4           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.07288084 m3/s                              
+       4           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 2              0.07288084 m3/s                              
+       4           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 3              0.07288084 m3/s                              
+       7           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.35768681 m3/s                              
+       7           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.35768681 m3/s                              
+       8           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.04904715 m3/s                              
+       8           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 2              0.04904715 m3/s                              
+       8           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 3              0.04904715 m3/s                              
+      13           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.01694355 m3/s                              
+      13           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 2              0.01694355 m3/s                              
+      13           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 3              0.01694355 m3/s                              
+      15           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00080924 m3/s                              
+      15           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00104326 m3/s                              
+      15           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 2              0.00104326 m3/s                              
+      15           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 3              0.00104326 m3/s                              
+      15           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00080924 m3/s                              
+      16           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00074152 m3/s                              
+      16           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 2              0.00074152 m3/s                              
+      16           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 3              0.00074152 m3/s                              
+      22           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00274566 m3/s                              
+      22           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 2              0.00274566 m3/s                              
+      22           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 3              0.00274566 m3/s                              
+      26           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00146301 m3/s                              
+      26           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 2              0.00146301 m3/s                              
+      26           1           6         21    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 3              0.00146301 m3/s                              
+                                                                                                                                                      
+   SIMULACAO FINAL:                                                                                                                                   
+   X--------X--------X----------------------------------------------------------------------------X----------------------X                            
+    ESTAGIO  CENARIO         RESTRICAO VIOLADA                                                           VIOLACAO                                     
+   X--------X--------X----------------------------------------------------------------------------X----------------------X                            

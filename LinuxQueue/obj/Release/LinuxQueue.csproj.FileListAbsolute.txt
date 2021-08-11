@@ -1,0 +1,6 @@
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueue\bin\Release\LinuxQueue.dll
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueue\bin\Release\LinuxQueue.pdb
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueue\obj\Release\LinuxQueue.csprojAssemblyReference.cache
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueue\obj\Release\LinuxQueue.csproj.CoreCompileInputs.cache
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueue\obj\Release\LinuxQueue.dll
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueue\obj\Release\LinuxQueue.pdb

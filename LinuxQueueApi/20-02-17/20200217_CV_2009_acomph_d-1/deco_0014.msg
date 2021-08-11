@@ -1,0 +1,9 @@
+ OSL iter=  1 iper=  6 ileq=122 probstat=  0 probstat2=  3
+ OSL iter=  2 iper=  6 ileq=120 probstat=  0 probstat2=  3
+ OSL iter=  4 iper=  6 ileq=120 probstat=  0 probstat2=  3
+ OSL iter=  6 iper=  6 ileq=120 probstat=  0 probstat2=  3
+ OSL iter=  8 iper=  6 ileq=120 probstat=  0 probstat2=  3
+ OSL iter= 10 iper=  6 ileq=120 probstat=  0 probstat2=  3
+ OSL iter= 11 iper=  6 ileq=120 probstat=  0 probstat2=  3
+ OSL iter= 13 iper=  6 ileq=120 probstat=  0 probstat2=  3
+ OSL iter= 18 iper=  6 ileq=120 probstat=  0 probstat2=  3

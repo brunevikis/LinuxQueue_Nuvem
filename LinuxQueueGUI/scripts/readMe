@@ -1,0 +1,19 @@
+Instruções de confiuração
+
+1-> Estrutura de pastas : 
+	.\queue\    (contem os comandos para serem executados
+	.\running\   (contem os comandos em execucao)
+    .\finished\  (contem os comnados que já finalizaram)
+
+
+2-> scrips:
+	watcher.sh   (verifica entradas e saidas de arquivos na fila e dispara runner em algum desses eventos)
+	runner.sh	(inicia o proximo comando da fila como um daemon e o move pelas pastas)
+	finisher.sh	(agendado no crontab, verifica e termina comandos que estão na pasta running mas não possuem um processo aberto ou tem algum filho defunto.
+					também inicia o watcher se este não estiver rodando)
+    killer.sh  (mata uma arvore de processos, partindo do PID do processo raíz)
+
+3-> config:
+
+	MAX_PROCESS=n (numero permitido de comandos sendo executados simultaneamente)
+

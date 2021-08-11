@@ -1,0 +1,50 @@
+/home/compass/sacompass/previsaopld/6_decomp/03_Casos/2020_03/20-02-17/20200217_CV2_ACOMPH_FUNC_d-1_GFS
+/home/producao/PrevisaoPLD/6_decomp/03_Casos/2020_03/20-02-17/20200217_CV2_ACOMPH_FUNC_d-1_GFS
+sending incremental file list
+DADGNL.RV0
+          5,233 100%    0.00kB/s    0:00:00            5,233 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=21/22)
+HIDR.DAT
+         32,768  12%  470.59kB/s    0:00:00          253,440 100%    2.91MB/s    0:00:00 (xfr#2, to-chk=20/22)
+MLT.DAT
+         15,360 100%  111.94kB/s    0:00:00           15,360 100%  107.91kB/s    0:00:00 (xfr#3, to-chk=19/22)
+RV0
+            138 100%    0.79kB/s    0:00:00              138 100%    0.76kB/s    0:00:00 (xfr#4, to-chk=18/22)
+arquivos.dat
+            493 100%    2.13kB/s    0:00:00              493 100%    2.07kB/s    0:00:00 (xfr#5, to-chk=17/22)
+bengnl.csv
+         32,768  29%  112.68kB/s    0:00:00          109,260 100%  366.66kB/s    0:00:00 (xfr#6, to-chk=16/22)
+caso.dat
+              6 100%    0.02kB/s    0:00:00                6 100%    0.02kB/s    0:00:00 (xfr#7, to-chk=15/22)
+csv.zip
+         32,768   0%   70.64kB/s    0:01:21        2,654,208  45%    2.46MB/s    0:00:01        4,194,304  72%    1.97MB/s    0:00:00        5,813,297 100%    2.00MB/s    0:00:02 (xfr#8, to-chk=14/22)
+dadger.rv0
+         32,768  19%   39.80kB/s    0:00:03          169,971 100%  201.69kB/s    0:00:00 (xfr#9, to-chk=13/22)
+dec_oper_sist.csv
+         32,768   4%   35.01kB/s    0:00:21          779,537 100%  805.57kB/s    0:00:00 (xfr#10, to-chk=12/22)
+gevazp.dat
+          1,140 100%    1.08kB/s    0:00:00            1,140 100%    1.04kB/s    0:00:01 (xfr#11, to-chk=11/22)
+inviab_unic.rv0
+          2,869 100%    2.41kB/s    0:00:00            2,869 100%    2.38kB/s    0:00:01 (xfr#12, to-chk=10/22)
+modif.dat
+            395 100%    0.32kB/s    0:00:00              395 100%    0.31kB/s    0:00:01 (xfr#13, to-chk=9/22)
+perdas.dat
+            702 100%    0.52kB/s    0:00:00              702 100%    0.52kB/s    0:00:01 (xfr#14, to-chk=8/22)
+polinjus.dat
+         32,768  24%   22.81kB/s    0:00:04           65,536  49%   45.39kB/s    0:00:01          132,396 100%   90.86kB/s    0:00:01 (xfr#15, to-chk=7/22)
+postos.dat
+          6,400 100%   84.46kB/s    0:00:00            6,400 100%   78.12kB/s    0:00:00 (xfr#16, to-chk=6/22)
+prevs.rv0
+         23,040 100%  166.67kB/s    0:00:00           23,040 100%  158.45kB/s    0:00:00 (xfr#17, to-chk=5/22)
+regras.dat
+          4,371 100%   22.12kB/s    0:00:00            4,371 100%   21.24kB/s    0:00:00 (xfr#18, to-chk=4/22)
+relato.rv0
+         32,768   0%  123.55kB/s    0:00:28        3,575,248 100%    9.71MB/s    0:00:00 (xfr#19, to-chk=3/22)
+sumario.rv0
+         32,768   5%   77.67kB/s    0:00:07          651,807 100%    1.45MB/s    0:00:00 (xfr#20, to-chk=2/22)
+vazoes.dat
+         32,768   2%   62.26kB/s    0:00:21        1,382,400 100%    1.77MB/s    0:00:00 (xfr#21, to-chk=1/22)
+vazoes.rv0
+         32,768   8%   39.75kB/s    0:00:09          398,080 100%  455.74kB/s    0:00:00 (xfr#22, to-chk=0/22)
+
+sent 4,977,057 bytes  received 437 bytes  523,946.74 bytes/sec
+total size is 13,325,583  speedup is 2.68

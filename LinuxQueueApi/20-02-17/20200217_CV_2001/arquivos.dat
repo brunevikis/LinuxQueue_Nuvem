@@ -1,0 +1,14 @@
+dados gerais                : gevazp.dat
+configuracao hidraulica     : gevazp.cfg
+bacias hidrograficas        : bacias.dat
+tendencia hidrologica       : vazpast.dat
+historico de vazoes         : vazoes.dat
+cadastro de postos          : postos.dat
+relatorio de saida          : gevazp.rel
+cenarios gerados vazao total: vaztotgd.dat
+cenarios gerados vazao incr : gevazp.out
+lista arquivos decomp       : rv0
+regras postos artificiais   : regras.dat
+similaridade/severidade     : simsev.dat
+
+   

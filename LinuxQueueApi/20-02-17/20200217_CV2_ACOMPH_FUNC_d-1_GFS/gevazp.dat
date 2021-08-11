@@ -1,0 +1,21 @@
+RV1
+TIPO DE EXECUCAO            :   99            
+TIPO AMOSTRAGEM             :    1            
+APLICACAO AMOST             :    2            
+CENARIOS DE VAZAO/ENERGIA   :    0            
+ANO INICIO DO ESTUDO        : 2016            
+No. DE ANOS DO EST          :    1  
+MES INICIO DO ESTUDO        :    1
+MES FINAL  DO ESTUDO        :    1
+No DE SERIES SINT.          :   10
+No ABERTURAS  J    F    M    A    M    J    J    A    S    O    N    D
+           XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX
+     ANO1   100    1    1    1    1    1    1    1    1    1    1    1
+     ANO2     1    1    1    1    1    1    1    1    1    1    1    1
+ORDEM MAXIMA DO AR          :   11
+ANO INICIAL HIST            : 1931
+ARQUIVO DE POSTOS           :    0             (=0 320 POSTOS, =1 600 POSTOS)
+TENDENCIA HIDROLOGICA       :    1             (=0 NAO CONSIDERA, =1 CONSIDERA)
+IMPRIME RELATORIO           :    1             (=0 NAO IMPRIME, =1 IMPRIME)
+IMPRIME TESTES              :    1             (=0 NAO IMPRIME, =1 IMPRIME)
+IMPRIME CENARIOS            :    1             (=0 NAO IMPRIME, =1 IMPRIME)

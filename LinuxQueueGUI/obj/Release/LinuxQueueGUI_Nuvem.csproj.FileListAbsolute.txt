@@ -1,0 +1,14 @@
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI_Nuvem.csprojAssemblyReference.cache
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.ClusterConfig.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.FormConfigAuto.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.FormConfig.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.FormConfigEncadAuto.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.FormIgnoraFila.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.FormFolderList.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.FormMain.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.FormOutputs.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.PLD_Mensal.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.Properties.Resources.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI.UserControl1.resources
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI_Nuvem.csproj.GenerateResource.cache
+C:\Development\LinuxQueue_nuvem\trunk\LinuxQueueGUI\obj\Release\LinuxQueueGUI_Nuvem.csproj.CoreCompileInputs.cache

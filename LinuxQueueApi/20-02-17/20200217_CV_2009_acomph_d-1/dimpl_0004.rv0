@@ -1,0 +1,480 @@
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:33   PAG.   1
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:   1
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:04:153
+      6     34     4808      14489     195127   00:00:07:970
+      6     35     4808      14489     195127   00:00:12:665
+      6     36     4808      14489     195127   00:00:15:329
+      6     37     4808      14489     195127   00:00:19:201
+      6     38     4808      14489     195127   00:00:22:056
+      6     39     4808      14489     195127   00:00:25:955
+      6     40     4808      14489     195127   00:00:29:086
+      6     41     4808      14489     195127   00:00:32:020
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:34   PAG.   2
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:   2
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:04:752
+      6     34     4808      14489     195127   00:00:05:953
+      6     35     4808      14489     195127   00:00:07:324
+      6     36     4808      14489     195127   00:00:08:607
+      6     37     4808      14489     195127   00:00:10:138
+      6     38     4808      14489     195127   00:00:11:957
+      6     39     4808      14489     195127   00:00:13:132
+      6     40     4808      14489     195127   00:00:14:132
+      6     41     4808      14489     195127   00:00:15:499
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:34   PAG.   3
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:   3
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:463
+      6     34     4808      14489     195127   00:00:00:941
+      6     35     4808      14489     195127   00:00:01:526
+      6     36     4808      14489     195127   00:00:02:177
+      6     37     4808      14489     195127   00:00:02:717
+      6     38     4808      14489     195127   00:00:03:258
+      6     39     4808      14489     195127   00:00:03:953
+      6     40     4808      14489     195127   00:00:04:404
+      6     41     4808      14489     195127   00:00:05:024
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:34   PAG.   4
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:   4
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:233
+      6     34     4808      14489     195127   00:00:00:593
+      6     35     4808      14489     195127   00:00:01:028
+      6     36     4808      14489     195127   00:00:01:431
+      6     37     4808      14489     195127   00:00:01:714
+      6     38     4808      14489     195127   00:00:01:923
+      6     39     4808      14489     195127   00:00:02:144
+      6     40     4808      14489     195127   00:00:02:597
+      6     41     4808      14489     195127   00:00:02:938
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:35   PAG.   5
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:   5
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:200
+      6     34     4808      14489     195127   00:00:00:510
+      6     35     4808      14489     195127   00:00:00:816
+      6     36     4808      14489     195127   00:00:01:345
+      6     37     4808      14489     195127   00:00:01:701
+      6     38     4808      14489     195127   00:00:02:003
+      6     39     4808      14489     195127   00:00:02:187
+      6     40     4808      14489     195127   00:00:02:467
+      6     41     4808      14489     195127   00:00:02:746
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:35   PAG.   6
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:   6
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:451
+      6     34     4808      14489     195127   00:00:00:804
+      6     35     4808      14489     195127   00:00:01:388
+      6     36     4808      14489     195127   00:00:01:820
+      6     37     4808      14489     195127   00:00:02:218
+      6     38     4808      14489     195127   00:00:02:614
+      6     39     4808      14489     195127   00:00:02:830
+      6     40     4808      14489     195127   00:00:03:197
+      6     41     4808      14489     195127   00:00:03:649
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:35   PAG.   7
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:   7
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:284
+      6     34     4808      14489     195127   00:00:00:576
+      6     35     4808      14489     195127   00:00:00:886
+      6     36     4808      14489     195127   00:00:01:345
+      6     37     4808      14489     195127   00:00:01:769
+      6     38     4808      14489     195127   00:00:02:123
+      6     39     4808      14489     195127   00:00:02:368
+      6     40     4808      14489     195127   00:00:02:623
+      6     41     4808      14489     195127   00:00:03:069
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:36   PAG.   8
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:   8
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:206
+      6     34     4808      14489     195127   00:00:00:455
+      6     35     4808      14489     195127   00:00:00:662
+      6     36     4808      14489     195127   00:00:00:891
+      6     37     4808      14489     195127   00:00:01:125
+      6     38     4808      14489     195127   00:00:01:299
+      6     39     4808      14489     195127   00:00:01:460
+      6     40     4808      14489     195127   00:00:01:647
+      6     41     4808      14489     195127   00:00:01:892
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:36   PAG.   9
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:   9
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:184
+      6     34     4808      14489     195127   00:00:00:466
+      6     35     4808      14489     195127   00:00:00:761
+      6     36     4808      14489     195127   00:00:00:982
+      6     37     4808      14489     195127   00:00:01:280
+      6     38     4808      14489     195127   00:00:01:512
+      6     39     4808      14489     195127   00:00:01:720
+      6     40     4808      14489     195127   00:00:01:921
+      6     41     4808      14489     195127   00:00:02:232
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:36   PAG.  10
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  10
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:174
+      6     34     4808      14489     195127   00:00:00:470
+      6     35     4808      14489     195127   00:00:00:757
+      6     36     4808      14489     195127   00:00:01:000
+      6     37     4808      14489     195127   00:00:01:210
+      6     38     4808      14489     195127   00:00:01:411
+      6     39     4808      14489     195127   00:00:01:591
+      6     40     4808      14489     195127   00:00:01:787
+      6     41     4808      14489     195127   00:00:02:087
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:37   PAG.  11
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  11
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:234
+      6     34     4808      14489     195127   00:00:00:537
+      6     35     4808      14489     195127   00:00:00:862
+      6     36     4808      14489     195127   00:00:01:205
+      6     37     4808      14489     195127   00:00:01:491
+      6     38     4808      14489     195127   00:00:01:774
+      6     39     4808      14489     195127   00:00:01:969
+      6     40     4808      14489     195127   00:00:02:182
+      6     41     4808      14489     195127   00:00:02:546
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:37   PAG.  12
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  12
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:216
+      6     34     4808      14489     195127   00:00:00:534
+      6     35     4808      14489     195127   00:00:00:992
+      6     36     4808      14489     195127   00:00:01:303
+      6     37     4808      14489     195127   00:00:01:547
+      6     38     4808      14489     195127   00:00:01:765
+      6     39     4808      14489     195127   00:00:01:993
+      6     40     4808      14489     195127   00:00:02:187
+      6     41     4808      14489     195127   00:00:02:519
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:37   PAG.  13
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  13
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:257
+      6     34     4808      14489     195127   00:00:00:624
+      6     35     4808      14489     195127   00:00:00:981
+      6     36     4808      14489     195127   00:00:01:229
+      6     37     4808      14489     195127   00:00:01:560
+      6     38     4808      14489     195127   00:00:01:877
+      6     39     4808      14489     195127   00:00:02:103
+      6     40     4808      14489     195127   00:00:02:338
+      6     41     4808      14489     195127   00:00:02:675
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:38   PAG.  14
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  14
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:172
+      6     34     4808      14489     195127   00:00:00:333
+      6     35     4808      14489     195127   00:00:00:548
+      6     36     4808      14489     195127   00:00:00:749
+      6     37     4808      14489     195127   00:00:00:975
+      6     38     4808      14489     195127   00:00:01:154
+      6     39     4808      14489     195127   00:00:01:333
+      6     40     4808      14489     195127   00:00:01:490
+      6     41     4808      14489     195127   00:00:01:678
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:38   PAG.  15
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  15
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:158
+      6     34     4808      14489     195127   00:00:00:357
+      6     35     4808      14489     195127   00:00:00:554
+      6     36     4808      14489     195127   00:00:00:721
+      6     37     4808      14489     195127   00:00:00:943
+      6     38     4808      14489     195127   00:00:01:128
+      6     39     4808      14489     195127   00:00:01:289
+      6     40     4808      14489     195127   00:00:01:447
+      6     41     4808      14489     195127   00:00:01:646
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:38   PAG.  16
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  16
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:107
+      6     34     4808      14489     195127   00:00:00:362
+      6     35     4808      14489     195127   00:00:00:587
+      6     36     4808      14489     195127   00:00:00:795
+      6     37     4808      14489     195127   00:00:01:035
+      6     38     4808      14489     195127   00:00:01:221
+      6     39     4808      14489     195127   00:00:01:397
+      6     40     4808      14489     195127   00:00:01:599
+      6     41     4808      14489     195127   00:00:01:895
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:39   PAG.  17
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  17
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:113
+      6     34     4808      14489     195127   00:00:00:301
+      6     35     4808      14489     195127   00:00:00:526
+      6     36     4808      14489     195127   00:00:00:708
+      6     37     4808      14489     195127   00:00:00:872
+      6     38     4808      14489     195127   00:00:01:017
+      6     39     4808      14489     195127   00:00:01:158
+      6     40     4808      14489     195127   00:00:01:308
+      6     41     4808      14489     195127   00:00:01:456
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:39   PAG.  18
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  18
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:111
+      6     34     4808      14489     195127   00:00:00:292
+      6     35     4808      14489     195127   00:00:00:464
+      6     36     4808      14489     195127   00:00:00:644
+      6     37     4808      14489     195127   00:00:00:818
+      6     38     4808      14489     195127   00:00:00:965
+      6     39     4808      14489     195127   00:00:01:106
+      6     40     4808      14489     195127   00:00:01:256
+      6     41     4808      14489     195127   00:00:01:447
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:39   PAG.  19
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  19
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:125
+      6     34     4808      14489     195127   00:00:00:286
+      6     35     4808      14489     195127   00:00:00:463
+      6     36     4808      14489     195127   00:00:00:615
+      6     37     4808      14489     195127   00:00:00:767
+      6     38     4808      14489     195127   00:00:00:911
+      6     39     4808      14489     195127   00:00:01:061
+      6     40     4808      14489     195127   00:00:01:207
+      6     41     4808      14489     195127   00:00:01:443
+
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)               
+    17/02/2020  15:39   PAG.  20
+
+
+   PROGRAMA LICENCIADO PARA COMPASS COMERCIALIZADORA DE ENERGIA ELETRICA LTDA                                                                                                     
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:17/02/2020
+  
+   Dimensoes dos PLs resolvidos e tempo de processamento
+  
+   Iteracao:  20
+   X----X------X----------X----------X----------x--------------X
+    Est.  Cen.    N col.   N lin.   N elem.   Tempo de proc.
+   X----X------X----------X----------X----------x--------------X
+      6     33     4808      14489     195127   00:00:00:107
+      6     34     4808      14489     195127   00:00:00:285
+      6     35     4808      14489     195127   00:00:00:429
+      6     36     4808      14489     195127   00:00:00:590
+      6     37     4808      14489     195127   00:00:00:728
+      6     38     4808      14489     195127   00:00:00:880
+      6     39     4808      14489     195127   00:00:01:029
+      6     40     4808      14489     195127   00:00:01:189
+      6     41     4808      14489     195127   00:00:01:323

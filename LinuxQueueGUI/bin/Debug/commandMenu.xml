@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<CommandMenu xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>root</Name>
+  <SubComands>
+    <CommandMenu>
+      <Name>Decomp</Name>
+      <SubComands>
+        <CommandMenu>
+          <Name>Decomp 22</Name>
+          <Command>L:\shared\bin\decomp22</Command>
+          <Result>Relato</Result>
+
+        </CommandMenu>
+
+        <CommandMenu>
+          <Name>Decomp 22 8</Name>
+          <Command>L:\shared\bin\decomp22_8</Command>
+
+        </CommandMenu>
+
+        <CommandMenu>
+          <Name>MultiBlock</Name>
+          <Command>L:\shared\bin\t_multiBlockDadger</Command>
+        </CommandMenu>
+
+		<CommandMenu>
+          <Name>MultiBlock Gerenciado</Name>
+          <Command>L:\shared\bin\tm_multiBlockDadger</Command>
+        </CommandMenu>
+
+      </SubComands>
+    </CommandMenu>
+    <CommandMenu>
+      <Name>Newave</Name>
+      <SubComands>
+        <!--<CommandMenu>
+          <Name>Newave 19</Name>
+          <Command>L:\shared\bin\newaveExec</Command>
+        </CommandMenu>-->
+        <CommandMenu>
+          <Name>Newave 20</Name>
+          <Command>L:\shared\bin\newaveExec20</Command>
+        </CommandMenu>
+        <!--<CommandMenu>
+          <Name>Newave 19 7 3</Name>
+          <Command>L:\shared\bin\newaveExec190703</Command>
+        </CommandMenu>-->
+		<CommandMenu>
+          <Name>Newave 20 02</Name>
+          <Command>L:\shared\bin\newaveExec2002</Command>
+        </CommandMenu>
+      </SubComands>
+    </CommandMenu>
+    <CommandMenu>
+      <Name>Newdesp</Name>
+      <SubComands>
+        <!--<CommandMenu>
+          <Name>Newdesp 19</Name>
+          <Command>/usr/bin/newdesp19_L</Command>
+        </CommandMenu>-->
+        <CommandMenu>
+          <Name>Newdesp 20</Name>
+          <Command>/usr/bin/newdesp20_L</Command>
+        </CommandMenu>
+        <!--<CommandMenu>
+          <Name>Newdesp 19 7 3</Name>
+          <Command>/usr/bin/newdesp190703_L</Command>
+        </CommandMenu>-->
+        <CommandMenu>
+          <Name>Newdesp 20 02</Name>
+          <Command>/usr/bin/newdesp2002_L</Command>
+        </CommandMenu>
+      </SubComands>
+    </CommandMenu>
+    <CommandMenu>
+      <Name>Nwlistop</Name>
+      <SubComands>
+        <!--<CommandMenu>
+          <Name>Nwlistop 19</Name>
+          <Command>/usr/bin/nwlistop19_L</Command>
+        </CommandMenu>-->
+        <CommandMenu>
+          <Name>Nwlistop 20</Name>
+          <Command>/usr/bin/nwlistop20_L</Command>
+        </CommandMenu>
+        <!--<CommandMenu>
+          <Name>Nwlistop 19 7 3</Name>
+          <Command>/usr/bin/nwlistop190703_L</Command>
+        </CommandMenu>-->
+        <CommandMenu>
+          <Name>Nwlistop 20 02</Name>
+          <Command>/usr/bin/nwlistop2002_L</Command>
+        </CommandMenu>
+      </SubComands>
+    </CommandMenu>
+    <CommandMenu>
+      <Name>Encadeado</Name>
+      <SubComands>
+        <!--<CommandMenu>
+          <Name>Encadeado</Name>
+          <Command>L:\shared\bin\ExecutorNEWAVE</Command>
+        </CommandMenu>-->
+        <!--<CommandMenu>
+          <Name>Encadeado FT</Name>
+          <Command>L:\shared\bin\ExecutorNEWAVE_FT</Command>
+        </CommandMenu>-->
+        <CommandMenu>
+          <Name>Encadeado FT Gerenciado</Name>
+          <Command>L:\shared\bin\ExecutorNEWAVE_FTM</Command>
+        </CommandMenu>
+      </SubComands>
+    </CommandMenu>
+  </SubComands>
+</CommandMenu>

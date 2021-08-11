@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pTDDLftyA365D+6kgk5FPerQZrg2H+yUGx9P9rwiCMMrjT+Q/pHiJ8WnYq7hhcjH+/BxkqPKxYGeUv7yYt8htg==",
+  "success": true,
+  "projectFilePath": "C:\\Compass\\MIGRACAO\\Development\\auxiliar\\LinuxQueue_Nuvem\\LinuxQueueCore\\LinuxQueueCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brune\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\brune\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\brune\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\brune\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\brune\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\brune\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

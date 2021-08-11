@@ -1,0 +1,26 @@
+   CEPEL: DECOMP - Coordenacao da Operacao a Curto Prazo - v30.1 - Jan/2020(L)                    17/02/2020
+
+   PMO - MARCO/20 - ABR/20 - REV 0 - FCF COM CVAR - 12 REE - VALOR ESPERADO        - PLANEJAMENTO:29/02/2020
+
+   RELATORIO DE VIOLACOES DAS RESTRICOES OPERATIVAS POR ITERACAO, ESTAGIO E CENARIO:
+   X---------X--------------X--------X--------X---------------------------------------------------X----------------------X
+    ITERACAO  FWD(1)/BWD(0)  ESTAGIO  CENARIO      RESTRICAO VIOLADA                                     VIOLACAO
+   X---------X--------------X--------X--------X---------------------------------------------------X----------------------X
+       2           1           5          1    RHQ 213: VAZAO DEFLUENTE (L. INF), PATAMAR 3            112.15428712 m3/s
+       2           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1             48.29886986 m3/s
+       2           0           5          1    RHQ 213: VAZAO DEFLUENTE (L. INF), PATAMAR 3             85.05979916 m3/s
+      11           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.33549730 m3/s
+      11           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.33549730 m3/s
+      14           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00084419 m3/s
+      14           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00084419 m3/s
+      19           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00057428 m3/s
+      19           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00057428 m3/s
+      24           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00056384 m3/s
+      24           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00056384 m3/s
+      26           1           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00000488 m3/s
+      26           0           5          1    RHQ 216: VAZAO DEFLUENTE (L. SUP), PATAMAR 1              0.00000488 m3/s
+
+   SIMULACAO FINAL:
+   X--------X--------X----------------------------------------------------------------------------X----------------------X
+    ESTAGIO  CENARIO         RESTRICAO VIOLADA                                                           VIOLACAO
+   X--------X--------X----------------------------------------------------------------------------X----------------------X

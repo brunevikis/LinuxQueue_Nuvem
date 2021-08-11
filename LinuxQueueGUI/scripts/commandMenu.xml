@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<CommandMenu xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Name>root</Name>
+    <SubComands>
+        <CommandMenu>
+        <Name>Newave</Name>
+        <SubComands>
+        <!--<CommandMenu>
+            <Name>Newave 22</Name>
+            <Command>/opt/aplicacoes/cpas_ctl/scripts/newave22</Command>
+            
+        </CommandMenu>-->
+		<CommandMenu>
+			<Name>Newave 23</Name>
+			<Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/newave23.sh</Command>					
+		</CommandMenu>
+        <CommandMenu>
+            <Name>Encadeado</Name>
+            <Command>/home/compass/sacompass/previsaopld/shared/encadeado/EncadeadoDecomp_v0.10.2.2/bin/ExecutorNEWAVE</Command>
+        </CommandMenu>
+        <CommandMenu>
+            <Name>Outros</Name>
+            <SubComands>
+                <CommandMenu>
+                    <Name>Newave 23 Consistencia</Name>
+                    <Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/newave23_con.sh</Command>
+                </CommandMenu>
+               <!-- <CommandMenu>
+                    <Name>nwlistop22_L</Name>
+                    <Command>/opt/aplicacoes/cpas_ctl/scripts/nwlistop22</Command>
+                </CommandMenu>
+                <CommandMenu>
+                    <Name>nwlistcf22_L</Name>
+                    <Command>/opt/aplicacoes/cpas_ctl/scripts/nwlistcf22</Command>
+                </CommandMenu>
+                <CommandMenu>
+                    <Name>newdesp22_L</Name>
+                    <Command>/opt/aplicacoes/cpas_ctl/scripts/newdesp22</Command>
+                </CommandMenu>-->
+                <CommandMenu>
+                    <Name>ConverteNomesArquivos</Name>
+                    <Command>/opt/aplicacoes/newave/bin/ConverteNomesArquivos</Command>
+                </CommandMenu>				
+                <CommandMenu>
+                    <Name>nwlistop 23</Name>
+                    <Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/nwlistop23.sh all</Command>                    
+                </CommandMenu>
+                <CommandMenu>
+                    <Name>nwlistcf 23</Name>
+                    <Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/nwlistcf23.sh</Command>
+                </CommandMenu>
+                <CommandMenu>
+                    <Name>newdesp 23</Name>
+                    <Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/newdesp23.sh</Command>                    
+                </CommandMenu>
+            </SubComands>
+        </CommandMenu>
+        </SubComands>
+    </CommandMenu>
+    <CommandMenu>
+        <Name>Decomp</Name>
+        <SubComands>
+        <!--<CommandMenu>
+            <Name>Decomp 24</Name>
+            <Command>/opt/aplicacoes/cpas_ctl/scripts/decomp24</Command>
+		</CommandMenu>-->
+
+		<CommandMenu>	
+			<Name>Decomp 25</Name>
+			<Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/decomp25.sh</Command>										
+		</CommandMenu>
+            
+       <!-- <CommandMenu>
+            <Name>Multblock 24</Name>
+            <Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/multiBlock_24</Command>            
+        </CommandMenu>-->
+
+		<CommandMenu>
+            <Name>Multblock 25</Name>
+            <Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/multiBlock_25.sh</Command>            
+        </CommandMenu>
+
+       <!-- <CommandMenu>
+            <Name>Encadeado 24</Name>
+            <Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/encad_decomp24</Command>            
+        </CommandMenu> -->
+
+        <CommandMenu>
+            <Name>Outros</Name>
+            <SubComands>
+                				
+				
+            </SubComands>
+        </CommandMenu>
+        </SubComands>
+    </CommandMenu>
+    <CommandMenu>
+        <Name>Outros</Name>
+        <SubComands>
+            <CommandMenu>
+                <Name>Encadeado Mensal - Earm da operacao - NW + DC</Name>
+                <Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/encad_dc_nw_mensal.sh</Command>
+				<Help>Estrutura de pastas: [caso]\[aaaamm] e [caso]\[decomp]\[aaaamm].\r\nApontar no caminho: [caso]\r\ne no argumentos: [aaaamm] [decomp]</Help>
+                
+            </CommandMenu> 
+			<CommandMenu>
+                <Name>Encadeado Mensal - Earm da operacao - DC</Name>
+                <Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/encad_decomp_mensal.sh</Command>
+				<Help>Estrutura de pastas: [caso]\[aaaamm] e [caso]\[decomp]\[aaaamm].\r\nApontar no caminho: [caso]\r\ne no argumentos: [aaaamm] [decomp]</Help>
+               
+            </CommandMenu> 
+            <CommandMenu>
+                <Name>Encadeado Semanal - Earm da operacao</Name>
+                <Command>/home/compass/sacompass/previsaopld/cpas_ctl_common/scripts/encad_decomp_semanal.sh</Command>
+               <Help>Estrutura de pastas: [estudo]\REV[x]\[cenario_n], onde n eh um valor de -9 a +9.\r\nSempre disparar no diretorio do cenario _0.\r\nO cenario _0 quando finalizadado propagara o earm paras os cenarios da REV seguinte.</Help>
+                
+            </CommandMenu> 
+        </SubComands>
+    </CommandMenu>
+    </SubComands>
+</CommandMenu>

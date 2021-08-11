@@ -1,0 +1,77 @@
+&adicionado automaticamente COTVOL e JUSMED Jirau/Sto Antonio
+&MAR - CMONT  285=90.00 CFUGA 285=74.24
+&ABR - CMONT 285=90.00 CFUGA 285=74.02
+AC  285  JUSMED         74.2400                                      MAR  1
+AC  285  COTVOL        1         90.0000                             MAR  1
+AC  285  COTVOL        2         0.00000                             MAR  1
+AC  285  COTVOL        3         0.00000                             MAR  1
+AC  285  COTVOL        4         0.00000                             MAR  1
+AC  285  COTVOL        5         0.00000                             MAR  1
+AC  285  JUSMED         74.2400                                      MAR  2
+AC  285  COTVOL        1         90.0000                             MAR  2
+AC  285  COTVOL        2         0.00000                             MAR  2
+AC  285  COTVOL        3         0.00000                             MAR  2
+AC  285  COTVOL        4         0.00000                             MAR  2
+AC  285  COTVOL        5         0.00000                             MAR  2
+AC  285  JUSMED         74.2400                                      MAR  3
+AC  285  COTVOL        1         90.0000                             MAR  3
+AC  285  COTVOL        2         0.00000                             MAR  3
+AC  285  COTVOL        3         0.00000                             MAR  3
+AC  285  COTVOL        4         0.00000                             MAR  3
+AC  285  COTVOL        5         0.00000                             MAR  3
+AC  285  JUSMED         74.2400                                      MAR  4
+AC  285  COTVOL        1         90.0000                             MAR  4
+AC  285  COTVOL        2         0.00000                             MAR  4
+AC  285  COTVOL        3         0.00000                             MAR  4
+AC  285  COTVOL        4         0.00000                             MAR  4
+AC  285  COTVOL        5         0.00000                             MAR  4
+AC  285  JUSMED         74.2400                                      MAR  5
+AC  285  COTVOL        1         90.0000                             MAR  5
+AC  285  COTVOL        2         0.00000                             MAR  5
+AC  285  COTVOL        3         0.00000                             MAR  5
+AC  285  COTVOL        4         0.00000                             MAR  5
+AC  285  COTVOL        5         0.00000                             MAR  5
+AC  285  JUSMED         74.0200                                      ABR    2020      
+AC  285  COTVOL        1         90.0000                             ABR    2020      
+AC  285  COTVOL        2         0.00000                             ABR    2020      
+AC  285  COTVOL        3         0.00000                             ABR    2020      
+AC  285  COTVOL        4         0.00000                             ABR    2020      
+AC  285  COTVOL        5         0.00000                             ABR    2020
+&MAR - CMONT  287=70.83 CFUGA 287=58.40
+&ABR - CMONT 287=70.92 CFUGA 287=58.11
+AC  287  JUSMED         58.0700                                      MAR  1
+AC  287  COTVOL        1         70.5000                             MAR  1
+AC  287  COTVOL        2         0.00000                             MAR  1
+AC  287  COTVOL        3         0.00000                             MAR  1
+AC  287  COTVOL        4         0.00000                             MAR  1
+AC  287  COTVOL        5         0.00000                             MAR  1
+AC  287  JUSMED         58.0700                                      MAR  2
+AC  287  COTVOL        1         70.5000                             MAR  2
+AC  287  COTVOL        2         0.00000                             MAR  2
+AC  287  COTVOL        3         0.00000                             MAR  2
+AC  287  COTVOL        4         0.00000                             MAR  2
+AC  287  COTVOL        5         0.00000                             MAR  2
+AC  287  JUSMED         58.0700                                      MAR  3
+AC  287  COTVOL        1         70.5000                             MAR  3
+AC  287  COTVOL        2         0.00000                             MAR  3
+AC  287  COTVOL        3         0.00000                             MAR  3
+AC  287  COTVOL        4         0.00000                             MAR  3
+AC  287  COTVOL        5         0.00000                             MAR  3
+AC  287  JUSMED         58.0700                                      MAR  4
+AC  287  COTVOL        1         70.5000                             MAR  4
+AC  287  COTVOL        2         0.00000                             MAR  4
+AC  287  COTVOL        3         0.00000                             MAR  4
+AC  287  COTVOL        4         0.00000                             MAR  4
+AC  287  COTVOL        5         0.00000                             MAR  4
+AC  287  JUSMED         58.0700                                      MAR  5
+AC  287  COTVOL        1         70.5000                             MAR  5
+AC  287  COTVOL        2         0.00000                             MAR  5
+AC  287  COTVOL        3         0.00000                             MAR  5
+AC  287  COTVOL        4         0.00000                             MAR  5
+AC  287  COTVOL        5         0.00000                             MAR  5
+AC  287  JUSMED         57.6900                                      ABR    2020      
+AC  287  COTVOL        1         70.5000                             ABR    2020      
+AC  287  COTVOL        2         0.00000                             ABR    2020      
+AC  287  COTVOL        3         0.00000                             ABR    2020      
+AC  287  COTVOL        4         0.00000                             ABR    2020      
+AC  287  COTVOL        5         0.00000                             ABR    2020
